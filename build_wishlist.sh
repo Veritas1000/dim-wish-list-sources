@@ -20,8 +20,8 @@ echo "title:${BUILT_WISHLIST_TITLE}" > $BUILT_WISHLIST_FILE
 echo $'\n' >> $BUILT_WISHLIST_FILE
 
 # Veritas1000's lists
-for sublist in Veritas1000/*.txt;do
-    add_sublist $sublist
+for sublist in "$(ls -1 Veritas1000/*.txt | sort -r)";do
+    add_sublist "$sublist"
 done
 
 #Panda's lists
