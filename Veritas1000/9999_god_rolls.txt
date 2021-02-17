@@ -1,6 +1,17 @@
 title: God Rolls
 
 
+// Dead Man's Tale
+//notes: God Roll PvP
+dimwishlist:item=3654674561&perks=1840239774,3230963543,588594999,1067908860
+dimwishlist:item=3654674561&perks=1840239774,3230963543,957782887,1067908860
+
+
+// Dead Man's Tale
+//notes: God Roll PvE
+dimwishlist:item=3654674561&perks=1840239774,3230963543,1067908860
+
+
 // Code Duello
 //notes: God Roll PvE
 dimwishlist:item=2496242052&perks=1441682018,3796465595,2869569095,3927722942

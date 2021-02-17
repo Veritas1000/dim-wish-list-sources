@@ -1,7 +1,17 @@
-title:A compiled wishlist generated from sublists
-
+title: A compiled wishlist generated from sublists
 
 title: God Rolls
+
+
+// Dead Man's Tale
+//notes: God Roll PvP
+dimwishlist:item=3654674561&perks=1840239774,3230963543,588594999,1067908860
+dimwishlist:item=3654674561&perks=1840239774,3230963543,957782887,1067908860
+
+
+// Dead Man's Tale
+//notes: God Roll PvE
+dimwishlist:item=3654674561&perks=1840239774,3230963543,1067908860
 
 
 // Code Duello
@@ -117,6 +127,28 @@ dimwishlist:item=2222560548&perks=4090651448,3230963543,1359896290,1546637391
 dimwishlist:item=2222560548&perks=1482024992,3230963543,1359896290,1546637391
 dimwishlist:item=2222560548&perks=3250034553,3230963543,1359896290,1546637391
 title: Season of the Chosen rolls
+
+
+// Dead Man's Tale
+dimwishlist:item=3654674561&perks=1840239774,3230963543,1067908860
+dimwishlist:item=3654674561&perks=4090651448,3230963543,1067908860
+dimwishlist:item=3654674561&perks=1482024992,3230963543,1067908860
+dimwishlist:item=3654674561&perks=1840239774,679225683,1067908860
+dimwishlist:item=3654674561&perks=4090651448,679225683,1067908860
+dimwishlist:item=3654674561&perks=1482024992,679225683,1067908860
+dimwishlist:item=3654674561&perks=1840239774,1885400500,1067908860
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1067908860
+dimwishlist:item=3654674561&perks=1482024992,1885400500,1067908860
+dimwishlist:item=3654674561&perks=1840239774,3230963543,3465198467
+dimwishlist:item=3654674561&perks=4090651448,3230963543,3465198467
+dimwishlist:item=3654674561&perks=1482024992,3230963543,3465198467
+dimwishlist:item=3654674561&perks=1840239774,679225683,3465198467
+dimwishlist:item=3654674561&perks=4090651448,679225683,3465198467
+dimwishlist:item=3654674561&perks=1482024992,679225683,3465198467
+dimwishlist:item=3654674561&perks=1840239774,1885400500,3465198467
+dimwishlist:item=3654674561&perks=4090651448,1885400500,3465198467
+dimwishlist:item=3654674561&perks=1482024992,1885400500,3465198467
+
 
 // Extraordinary Rendition
 dimwishlist:item=1097616550&perks=3250034553,3142289711,3643424744,4104185692
@@ -1185,7 +1217,17 @@ dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868
 dimwishlist:item=1621657423&perks=2801223209,2154191829,588594999,4082225868
 dimwishlist:item=1621657423&perks=2801223209,3429800428,2450788523,4082225868
 dimwishlist:item=1621657423&perks=2801223209,2154191829,2450788523,4082225868
-title: Veritas1000's customizations of DIM wishlist
+// My Trash rolls
+
+
+// Extraordinary Rendition
+dimwishlist:item=1097616550&perks=1467527085,3177308360
+dimwishlist:item=1097616550&perks=202670084,3177308360
+dimwishlist:item=1097616550&perks=3661387068,3177308360
+dimwishlist:item=1097616550&perks=1467527085,2420895100
+dimwishlist:item=1097616550&perks=202670084,2420895100
+dimwishlist:item=1097616550&perks=3661387068,2420895100
+dimwishlist:item=1097616550&perks=1820235745title: Veritas1000's customizations of DIM wishlist
 
 // IKELOS_SR_v1.0.2
 dimwishlist:item=1253087083&perks=106909392,3400784728,2551157718
@@ -1729,7 +1771,6 @@ dimwishlist:item=1946491241&perks=1844523823,409831596,3300816228,3871884143
 
 //notes: Potential Pick
 dimwishlist:item=1946491241&perks=409831596,3300816228
-
 
 title:u/pandapaxxy's Season of Arrivals M+KB Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/hb3ate/season_of_arrivals_mnk_breakdown/
@@ -4052,7 +4093,6 @@ dimwishlist:item=3829285960&perks=2405638014,106909392,1168162263,3523296417
 dimwishlist:item=3829285960&perks=679077873,3142289711,1168162263,3523296417
 dimwishlist:item=3829285960&perks=679077872,3142289711,1168162263,3523296417
 dimwishlist:item=3829285960&perks=2405638014,3142289711,1168162263,3523296417
-
 
 
 title:u/pandapaxxy's Black Armory PvE + PvP picks
@@ -7574,7 +7614,6 @@ dimwishlist:item=2817798849&perks=1844523823,2985827016,3300816228,706527188
 dimwishlist:item=2817798849&perks=1441682018,2985827016,3300816228,706527188
 dimwishlist:item=2817798849&perks=1478423395,2985827016,3300816228,706527188
 
-
 title:u/pandapaxxy's Black Armory PvE picks
 description:Originally found at https://docs.google.com/spreadsheets/d/1D4Fu6fSoSrPhlSOmCn_n1bItSNGZHbZxNI6_lVpoeB8/edit#gid=0
 // from https://docs.google.com/spreadsheets/d/1D4Fu6fSoSrPhlSOmCn_n1bItSNGZHbZxNI6_lVpoeB8/edit#gid=0
@@ -9648,7 +9687,6 @@ dimwishlist:item=2817798849&perks=981914802,3492396210,3300816228,2010801679
 dimwishlist:item=2817798849&perks=3525010810,3492396210,3300816228,2010801679
 dimwishlist:item=2817798849&perks=1441682018,3492396210,3300816228,2010801679
 
-
 title:u/pandapaxxy's Black Armory PvP picks
 description:Originally found at https://docs.google.com/spreadsheets/d/1D4Fu6fSoSrPhlSOmCn_n1bItSNGZHbZxNI6_lVpoeB8/edit#gid=0
 // from https://docs.google.com/spreadsheets/d/1D4Fu6fSoSrPhlSOmCn_n1bItSNGZHbZxNI6_lVpoeB8/edit#gid=0
@@ -11250,7 +11288,6 @@ dimwishlist:item=2817798849&perks=1844523823,2985827016,3300816228,706527188
 dimwishlist:item=2817798849&perks=1441682018,2985827016,3300816228,706527188
 dimwishlist:item=2817798849&perks=1478423395,2985827016,3300816228,706527188
 
-
 title:u/pandapaxxy's Season of the Dawn Ritual Weapons breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eaza6n/season_of_the_dawn_ritual_weapons/
 
@@ -11274,7 +11311,6 @@ dimwishlist:item=2697058914&perks=1392496348,689005463,2866798147,699525795
 dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,699525795
 dimwishlist:item=2697058914&perks=1392496348,689005463,2866798147,2551157718
 dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,2551157718
-
 
 
 title:u/pandapaxxy's Dawning + Hawkmoon MKB Breakdown
@@ -11632,7 +11668,6 @@ dimwishlist:item=3856705927&perks=3250034553,2450788523,3326204863
 dimwishlist:item=3856705927&perks=1482024992,2450788523,3326204863
 
 
-
 title:u/pandapaxxy's Season Pass / Dawning M+KB breakdown
 description:Originally found at https://old.reddit.com/r/sharditkeepit/comments/eazbrp/season_pass_dawning_mnk_breakdown/
 
@@ -11872,7 +11907,6 @@ dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,1546637391
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
 dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795
-
 
 
 title:u/pandapaxxy's Deep Stone Crypt weapons breakdown, M+KB edition
@@ -12395,7 +12429,6 @@ dimwishlist:item=4230965989&perks=3250034553,3142289711,3436462433,3425386926
 dimwishlist:item=4230965989&perks=1482024992,3142289711,3436462433,3425386926
 dimwishlist:item=4230965989&perks=3250034553,106909392,3436462433,3425386926
 dimwishlist:item=4230965989&perks=1482024992,106909392,3436462433,3425386926
-
 
 
 
@@ -13572,7 +13605,6 @@ dimwishlist:item=2714022207&perks=1467527085,689005463,280464955,2726471870
 dimwishlist:item=2714022207&perks=202670084,2969185026,280464955,2726471870
 dimwishlist:item=2714022207&perks=3250034553,2969185026,280464955,2726471870
 dimwishlist:item=2714022207&perks=1467527085,2969185026,280464955,2726471870
-
 
 
 
@@ -15770,7 +15802,6 @@ dimwishlist:item=1644160541&perks=938542991,52780822,1749209109,3913600130
 dimwishlist:item=1644160541&perks=2827049491,52780822,1749209109,3913600130
 dimwishlist:item=1644160541&perks=436053704,52780822,1749209109,3913600130
 
-
 title:u/pandapaxxy's Forsaken PvP picks
 description:Originally found at https://docs.google.com/spreadsheets/d/1YWX2NCw8joV0T15ivF7Hu98iMC1Za4lzMWpwJiMx6q8/edit?usp=sharing
 
@@ -17759,7 +17790,6 @@ dimwishlist:item=1644160541&perks=938542991,2349202967,1749209109,354401740
 dimwishlist:item=1644160541&perks=436053704,52780822,1749209109,354401740
 dimwishlist:item=1644160541&perks=938542991,52780822,1749209109,354401740
 
-
 title:u/pandapaxxy's "missing" Black Armory PvE picks
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/ahwn4c/missing_black_armory_weapons_bow_pulse_sword/
 // https://www.reddit.com/r/sharditkeepit/comments/ahwn4c/missing_black_armory_weapons_bow_pulse_sword/
@@ -17986,7 +18016,6 @@ dimwishlist:item=3704653637&perks=599007201,52780822,2590710093,3913600130
 dimwishlist:item=3704653637&perks=436053704,52780822,2590710093,3913600130
 dimwishlist:item=3704653637&perks=938542991,52780822,2590710093,3913600130
 
-
 title:u/pandapaxxy's "missing" Black Armory PvP picks
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/ahwn4c/missing_black_armory_weapons_bow_pulse_sword/
 // https://www.reddit.com/r/sharditkeepit/comments/ahwn4c/missing_black_armory_weapons_bow_pulse_sword/
@@ -18158,7 +18187,6 @@ dimwishlist:item=3704653637&perks=938542991,3625355092,354401740,3708227201
 dimwishlist:item=3704653637&perks=2827049491,2349202967,354401740,3708227201
 dimwishlist:item=3704653637&perks=3666208348,2349202967,354401740,3708227201
 dimwishlist:item=3704653637&perks=938542991,2349202967,354401740,3708227201
-
 
 title:u/pandapaxxy's Penumbra PvE picks
 description:Originally found at https://docs.google.com/spreadsheets/d/1wZkZCt6YeMEkZ2-SxyLCUECVP_o_1wgsRPiC2LblkAM/edit#gid=0
@@ -19125,7 +19153,6 @@ dimwishlist:item=569799273&perks=436053704,2349202967,2590710093,3913600130
 dimwishlist:item=569799273&perks=938542991,2349202967,2590710093,3913600130
 dimwishlist:item=569799273&perks=3666208348,2349202967,2590710093,3913600130
 
-
 title:u/pandapaxxy's Penumbra PvP picks
 description:Originally found at https://docs.google.com/spreadsheets/d/1wZkZCt6YeMEkZ2-SxyLCUECVP_o_1wgsRPiC2LblkAM/edit#gid=0
 
@@ -19932,7 +19959,6 @@ dimwishlist:item=569799273&perks=436053704,2349202967,2590710093,3016987351
 dimwishlist:item=569799273&perks=938542991,2349202967,2590710093,3016987351
 dimwishlist:item=569799273&perks=3666208348,2349202967,2590710093,3016987351
 
-
 title:u/pandapaxxy's Altars of Sorrow / Pit of Heresy weapons breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eaz9v6/pit_of_heresy_altar_of_sorrow_weapons/
 
@@ -20195,7 +20221,6 @@ dimwishlist:item=3067821200&perks=3525010810,1996142143,3523296417,1275731761
 dimwishlist:item=3067821200&perks=1478423395,1996142143,3523296417,1275731761
 dimwishlist:item=3067821200&perks=3525010810,3492396210,3523296417,1275731761
 dimwishlist:item=3067821200&perks=1478423395,3492396210,3523296417,1275731761
-
 
 
 title:u/pandapaxxy's Returning (in Season of the Dawn) weapons M+KB breakdown
@@ -21221,7 +21246,6 @@ dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,1275731761
 dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1275731761
 
 
-
 title: u/pandapaxxy's Garden of Salvation PvE recommendations
 description: Translated from https://docs.google.com/spreadsheets/d/1UlPqO4koKRcqMxl2VO4JzdgkKyY7LW07W0k91S_Yl8U/edit#gid=699934882 by your old pal 48klocs
 
@@ -22157,7 +22181,6 @@ dimwishlist:item=2209003210&perks=1840239774,2969185026,3300816228,1683379515#no
 dimwishlist:item=2209003210&perks=4090651448,2969185026,3300816228,1683379515#notes:pandapaxxy Garden of Salvation PvE
 dimwishlist:item=2209003210&perks=1482024992,2969185026,3300816228,1683379515#notes:pandapaxxy Garden of Salvation PvE
 
-
 title: u/pandapaxxy's Garden of Salvation PvP recommendations
 description: Translated from https://docs.google.com/spreadsheets/d/1UlPqO4koKRcqMxl2VO4JzdgkKyY7LW07W0k91S_Yl8U/edit#gid=699934882 by your old pal 48klocs
 
@@ -22848,7 +22871,6 @@ dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,1600092898#not
 dimwishlist:item=2209003210&perks=1467527085,1687452232,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
 dimwishlist:item=2209003210&perks=839105230,2969185026,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
 dimwishlist:item=2209003210&perks=1467527085,2969185026,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
-
 
 title:u/pandapaxxy's Season of the Drifter PvE picks
 description:Originally found at https://docs.google.com/spreadsheets/d/1ZEr_TCdCenhBcviXQ5iAKzrPWa_oEav5rvXdy4QaD6I/edit#gid=0
@@ -23839,7 +23861,6 @@ dimwishlist:item=715338174&perks=938542991,2349202967,2590710093,1685431615
 dimwishlist:item=715338174&perks=436053704,52780822,2590710093,1685431615
 dimwishlist:item=715338174&perks=938542991,52780822,2590710093,1685431615
 
-
 title:u/pandapaxxy's Season of the Drifter PvP picks
 description:Originally found at https://docs.google.com/spreadsheets/d/1ZEr_TCdCenhBcviXQ5iAKzrPWa_oEav5rvXdy4QaD6I/edit#gid=0
 
@@ -24533,7 +24554,6 @@ dimwishlist:item=715338174&perks=3666208348,2349202967,2590710093,818211479
 dimwishlist:item=715338174&perks=2827049491,599007201,2590710093,818211479
 dimwishlist:item=715338174&perks=3666208348,599007201,2590710093,818211479
 
-
 title: u/pandapaxxy's Season (of the Hunt) Iron Banner recommendations, M+KB edition
 description: Originally found at https://www.reddit.com/r/sharditkeepit/comments/juwj91/iron_banner_and_trials_mnk/
 
@@ -24677,7 +24697,6 @@ dimwishlist:item=2220884262&perks=1926090092,1885400500,2450788523,3513791699
 dimwishlist:item=2220884262&perks=1926090095,679225683,2450788523,3513791699
 dimwishlist:item=2220884262&perks=1926090093,679225683,2450788523,3513791699
 dimwishlist:item=2220884262&perks=1926090092,679225683,2450788523,3513791699
-
 
 
 
@@ -25137,7 +25156,6 @@ dimwishlist:item=2453357042&perks=1478423395,409831596,706527188,3425386926
 dimwishlist:item=2453357042&perks=1844523823,409831596,2450788523,3425386926
 dimwishlist:item=2453357042&perks=1441682018,409831596,2450788523,3425386926
 dimwishlist:item=2453357042&perks=1478423395,409831596,2450788523,3425386926
-
 
 
 
@@ -25922,7 +25940,6 @@ dimwishlist:item=2582755344&perks=1482024992,1885400500,3300816228,3513791699
 dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,3513791699
 dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,3513791699
 dimwishlist:item=2582755344&perks=1482024992,1561002382,3300816228,3513791699
-
 
 
 title: u/pandapaxxy's Shadowkeep/Season of Undying PvE recommendations
@@ -28048,7 +28065,6 @@ dimwishlist:item=3369545945&perks=1840239774,3230963543,706527188,3425386926#not
 dimwishlist:item=3369545945&perks=839105230,3230963543,706527188,3425386926#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3369545945&perks=4090651448,3230963543,706527188,3425386926#notes:pandapaxxy Shadowkeep PvE
 
-
 title: u/pandapaxxy's Shadowkeep/Season of Undying PvP recommendations
 description: Translated from https://docs.google.com/spreadsheets/d/1zuFDr31U9SQbhldpbl_JFxVGw6VfXophMEpv_OfDtJQ/edit#gid=0 by your old pal 48klocs
 
@@ -30124,7 +30140,6 @@ dimwishlist:item=3369545945&perks=839105230,1885400500,280464955,3425386926#note
 dimwishlist:item=3369545945&perks=1840239774,679225683,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=3369545945&perks=839105230,679225683,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
 
-
 title:u/pandapaxxy's Sundial M+KB breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eazb6x/sundial_weapons_mnk_breakdown/
 
@@ -30676,7 +30691,6 @@ dimwishlist:item=946443267&perks=1840239774,689005463,247725512,3300816228
 dimwishlist:item=946443267&perks=3250034553,2969185026,247725512,3300816228
 dimwishlist:item=946443267&perks=1482024992,2969185026,247725512,3300816228
 dimwishlist:item=946443267&perks=1840239774,2969185026,247725512,3300816228
-
 
 title:u/pandapaxxy's Adept Trials (Season of the Hunt) breakdown, M+KB edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/juwj91/iron_banner_and_trials_mnk/
@@ -31374,7 +31388,6 @@ dimwishlist:item=1366917989&perks=1844523823,3796465595,588594999,957782887
 dimwishlist:item=1366917989&perks=1441682018,3796465595,588594999,957782887
 dimwishlist:item=1366917989&perks=1478423395,3796465595,588594999,957782887
 
-
 title:u/pandapaxxy's Season of the Worthy Trials Weapons, M+KB edition
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/fiqppm/trials_weapons_mnk/
 
@@ -32045,7 +32058,6 @@ dimwishlist:item=958384347&perks=1441682018,3796465595,3977735242,957782887
 dimwishlist:item=958384347&perks=1478423395,3796465595,3977735242,957782887
 dimwishlist:item=958384347&perks=1441682018,3796465595,588594999,957782887
 dimwishlist:item=958384347&perks=1478423395,3796465595,588594999,957782887
-
 
 
 
@@ -33344,7 +33356,6 @@ dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,4071163871
 dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,4071163871
 
 
-
 title:u/Mercules904's Altars of Sorrow weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
 
@@ -33375,7 +33386,6 @@ dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,1275731761
 // Heretic (PvE; curated)
 //notes:Mercules904 (pretty good PvE; curated) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
 dimwishlist:item=3067821200&perks=3525010810,3492396210,3523296417,1275731761
-
 
 
 title:u/Mercules904's Massive Breakdown of the (Season of Arrivals) Iron Banner Auto Rifle and Sidearm
@@ -33438,7 +33448,6 @@ dimwishlist:item=65611680&perks=445755706,1885400500,588594999,4152709778
 dimwishlist:item=65611680&perks=445755707,1885400500,588594999,4152709778
 dimwishlist:item=65611680&perks=445755706,1885400500,1866048759,4152709778
 dimwishlist:item=65611680&perks=445755707,1885400500,1866048759,4152709778
-
 
 title:u/Mercules904's Black Armory and SotP picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/a64v3t/massive_breakdown_of_black_armory_forge_and/
@@ -33815,7 +33824,6 @@ dimwishlist:item=603242241&perks=4090651448,1968497646,3275789089,2213355989
 dimwishlist:item=603242241&perks=1840239774,1968497646,3275789089,2213355989
 dimwishlist:item=603242241&perks=839105230,1968497646,3275789089,2213355989
 
-
 title:u/Mercules904's Black Armory pulse rifle and bow picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/a7nh4n/massive_breakdown_of_the_black_armory_forge_bow/
 //from https://www.reddit.com/r/DestinyTheGame/comments/a7nh4n/massive_breakdown_of_the_black_armory_forge_bow/
@@ -33834,7 +33842,6 @@ dimwishlist:item=421573768&perks=1784898267,3429800428,201365942,3365897133
 
 //spiteful fang
 dimwishlist:item=421573768&perks=852209214,3429800428,201365942,3425386926
-
 
 title:u/Mercules904's Bygones, Last Perdition, and Black Scorpion breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f6z2ma/massive_breakdown_of_the_bygones_last_perdition/
@@ -33877,7 +33884,6 @@ dimwishlist:item=525750263&perks=1467527085,3142289711,588594999,3425386926
 // Black Scorpion-4sr (controller)
 //notes:Mercules904 (pretty good controller) - "Outside of Bygones, this is actually my favorite primary weapon."
 dimwishlist:item=525750263&perks=3661387068,106909392,588594999,3425386926
-
 
 
 title:u/Mercules904's Crown of Sorrow raid drop picks
@@ -34068,7 +34074,6 @@ dimwishlist:item=1496419775&perks=839105230,1561002382,1890422124,3425386926
 //Bane of Sorrow (curated)
 dimwishlist:item=1496419775&perks=4090651448,1561002382,1168162263,2848615171
 
-
 title:u/Mercules904's Dreaming City breakdown picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/a184tl/massive_breakdown_of_the_dreaming_city_weapons/
 
@@ -34159,7 +34164,6 @@ dimwishlist:item=1644160541&perks=938542991,2349202967,2590710093,354401740
 dimwishlist:item=1644160541&perks=938542991,599007201,354401740,2590710093
 dimwishlist:item=1644160541&perks=938542991,52780822,354401740,2590710093
 
-
 title:u/Mercules904's Erentil FR4 god roll picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/cbxao7/massive_breakdown_of_erentil_fr4_including_stats/
 
@@ -34222,7 +34226,6 @@ dimwishlist:item=2326716489&perks=839105230,1087426260,2117683199,3400784728
 //Gunnora's Axe (curated)
 dimwishlist:item=2326716489&perks=1332244541,3142289711,1168162263,47981717
 dimwishlist:item=2326716489&perks=1332244541,791862061,1168162263,47981717
-
 
 title:u/Mercules904's Forsaken Gambit Rolls
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/9j49os/massive_breakdown_of_the_forsaken_gambit_weapons/
@@ -34595,7 +34598,6 @@ dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761
 dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761
 dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761
 
-
 title:u/Mercules904's Garden of Salvation raid weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
 
@@ -34810,7 +34812,6 @@ dimwishlist:item=4020742303&perks=1300023272,791862061,2117683199,2679249093
 dimwishlist:item=4020742303&perks=1047830412,3142289711,2117683199,47981717
 
 
-
 title:u/Mercules904's Forsaken Iron Banner picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/9gwchn/massive_breakdown_of_forsaken_iron_banner_weapons/
 // from https://www.reddit.com/r/DestinyTheGame/comments/9gwchn/massive_breakdown_of_forsaken_iron_banner_weapons/
@@ -34852,7 +34853,6 @@ dimwishlist:item=1972985595&perks=1478423395,409831596,3300816228,3096702027
 
 //roar of the bear
 
-
 title:u/Mercules904's S5 Iron Banner picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/aa1wqz/massive_breakdown_of_the_season_5_iron_banner/
 // from https://www.reddit.com/r/DestinyTheGame/comments/aa1wqz/massive_breakdown_of_the_season_5_iron_banner/
@@ -34878,7 +34878,6 @@ dimwishlist:item=1865351684&perks=3151536503,3230963543,588594999,1015611457
 //hero's burden
 dimwishlist:item=1865351684&perks=3151536500,1885400500,2387244414,1015611457
 dimwishlist:item=1865351684&perks=3151536501,1885400500,2387244414,1015611457
-
 
 title:u/Mercules904's Last Wish raid picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/9hgmg4/massive_breakdown_of_forsakens_last_wish_raid/
@@ -34937,7 +34936,6 @@ dimwishlist:item=2545083870&perks=3525010810,2822142346,957782887,1275731761
 //apex predator
 dimwishlist:item=2545083870&perks=1441682018,2822142346,3977735242,3300816228
 dimwishlist:item=2545083870&perks=3525010810,2822142346,3977735242,3300816228
-
 
 title:u/Mercules904's Massive Breakdown of the Legacy and Dredgen Focused Umbral Engram Weapons
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hfpop8/massive_breakdown_of_the_legacy_and_dredgen/
@@ -35243,7 +35241,6 @@ dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1275731761
 //notes:Mercules904 (Gambit): "Thanks to being a Void weapon, it's perfect for taking down the Envoys and then helping to DPS the Primeval, which I believe was the intent of the Masterwork roll, which comes with increased blast radius and direct hit damage, as well as the God-Roll of Tracking Module and Cluster Bomb."|tags:gambit
 dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761
 
-
 title:u/Mercules904's Menagerie drops - recommended rolls
 description:Originally found at https://www.reddit.com/r/CruciblePlaybook/comments/c0anob/massive_breakdown_of_menagerie_weapons_including/
 // u/Mercules904 - Menagerie drops - recommended rolls
@@ -35361,7 +35358,6 @@ dimwishlist:item=1642384931&perks=3661387068,1885400500,2779035018,3425386926
 
 //Fixed Odds (curated)
 dimwishlist:item=1642384931&perks=3250034553,1968497646,2779035018,3425386926
-
 
 title:u/Mercules904's Curse of Osiris Redux Obelisk weapon picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/eizm6l/massive_breakdown_of_the_curse_of_osiris_redux/
@@ -35544,7 +35540,6 @@ dimwishlist:item=3393519051&perks=1482024992,106909392,3161816588,3425386926
 dimwishlist:item=3393519051&perks=4090651448,106909392,3161816588,3425386926
 
 
-
 title:u/Mercules904's Pyramid-focused Umbral primary weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/h9n8us/massive_breakdown_of_the_pyramid_focused_umbral/
 
@@ -35650,7 +35645,6 @@ dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3350417888
 dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391
 dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3523296417
 
-
 title:u/Mercules904's Season of Dawn Season Pass weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/emrqro/massive_breakdown_of_the_season_of_dawn_season/
 
@@ -35676,7 +35670,6 @@ dimwishlist:item=1289324202&perks=981914802,3796465595,2010801679,1275731761
 dimwishlist:item=1289324202&perks=981914802,3796465595,3096702027,1275731761
 dimwishlist:item=1289324202&perks=981914802,3796465595,706527188,1275731761
 dimwishlist:item=1289324202&perks=981914802,3796465595,205890336,1275731761
-
 
 title:u/Mercules904's Sundial weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f3garh/massive_breakdown_of_the_sundial_weapons/
@@ -35821,7 +35814,6 @@ dimwishlist:item=946443267&perks=839105230,1687452232,247725512,1771339417
 dimwishlist:item=946443267&perks=4090651448,1687452232,247725512,1771339417
 
 
-
 title:u/Mercules904's Season of the Undying season pass weapon picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/docorx/massive_breakdown_of_the_season_of_the_undying/
 
@@ -35893,7 +35885,6 @@ dimwishlist:item=3369545945&perks=3250034553,1885400500,2010801679,2846385770#no
 dimwishlist:item=3369545945&perks=4090651448,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
 dimwishlist:item=3369545945&perks=1840239774,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
 dimwishlist:item=3369545945&perks=839105230,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
-
 
 title:u/Mercules904's Vex Invasion drop picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/djo6bn/massive_breakdown_of_the_vex_offensive_weapons/
@@ -36045,7 +36036,6 @@ dimwishlist:item=2663204025&perks=1482024992,1885400500,4071163871,3425386926#no
 dimwishlist:item=2663204025&perks=1392496348,1885400500,1168162263,3425386926#notes:mercules904's Vex Invasion pick (PvE must have)
 dimwishlist:item=2663204025&perks=3661387068,1885400500,1168162263,3425386926#notes:mercules904's Vex Invasion pick (PvE must have)
 dimwishlist:item=2663204025&perks=1482024992,1885400500,1168162263,3425386926#notes:mercules904's Vex Invasion pick (PvE must have)
-
 
 title:@AyyItsChevy's Super Pog PvE Loot List
 
@@ -36710,7 +36700,6 @@ dimwishlist:item=2050789284&perks=1392496348,106909392,2869569095,2726471870#not
 dimwishlist:item=2050789284&perks=3250034553,1087426260,2869569095,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
 dimwishlist:item=2050789284&perks=1392496348,1087426260,2869569095,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
 
-
 title:@chrisfried coming through with a trash list
 description:A must-not-keep list of gear, originally found in top secret group chats.
 
@@ -36820,5 +36809,14 @@ dimwishlist:item=-3325778512#notes:A Puke Memorial 🤢🤢🤢 (Memorial is pre
  
 // rapid-fire machine gun
 dimwishlist:item=-3369545945#notes:Tempukal Clause 🤢🤢🤢 (Unless you *really* hate Hammerhead or Bane of Sorrow, this is redundant vs. better guns)
+// My Trash rolls
 
 
+// Extraordinary Rendition
+dimwishlist:item=1097616550&perks=1467527085,3177308360
+dimwishlist:item=1097616550&perks=202670084,3177308360
+dimwishlist:item=1097616550&perks=3661387068,3177308360
+dimwishlist:item=1097616550&perks=1467527085,2420895100
+dimwishlist:item=1097616550&perks=202670084,2420895100
+dimwishlist:item=1097616550&perks=3661387068,2420895100
+dimwishlist:item=1097616550&perks=1820235745
