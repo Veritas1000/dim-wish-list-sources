@@ -3,4 +3,12 @@
 
 // Seventh Seraph Carbine
 dimwishlist:item=1561006927&perks=1467527085,1968497646,1354429876,4082225868#notes: PvE
-dimwishlist:item=1561006927#notes:Don't need any more
+dimwishlist:item=-1561006927#notes:Don't need any more
+
+
+// Bad Omens
+dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761
+
+// Escape Velocity
+dimwishlist:item=1786797708&perks=663495154,106909392,3643424744,1546637391
+dimwishlist:item=-1786797708#notes:Don't need any more
