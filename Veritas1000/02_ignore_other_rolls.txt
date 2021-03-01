@@ -1,0 +1,6 @@
+// Don't need any more 'good' rolls, I only care about god rolls of these anymore
+
+
+// Seventh Seraph Carbine
+dimwishlist:item=1561006927&perks=1467527085,1968497646,1354429876,4082225868#notes: PvE
+dimwishlist:item=1561006927#notes:Don't need any more
