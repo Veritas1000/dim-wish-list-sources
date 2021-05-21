@@ -21,7 +21,7 @@ echo "title: ${BUILT_WISHLIST_TITLE}" > $BUILT_WISHLIST_FILE
 echo "" >> $BUILT_WISHLIST_FILE
 
 # Veritas1000's lists
-for sublist in "$(ls -1 Veritas1000/*.txt | sort -r)";do
+for sublist in `ls Veritas1000/*.txt | sort -Vr`;do
     add_sublist "$sublist"
 done
 

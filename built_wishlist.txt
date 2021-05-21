@@ -1,13 +1,6 @@
 title: A compiled wishlist generated from sublists
 
 // source file: Veritas1000/9999_god_rolls.txt
-Veritas1000/2021_02_season_of_chosen.txt
-Veritas1000/2020_iron_banner.txt
-Veritas1000/2020_dreaming_city.txt
-Veritas1000/2020_11_beyond_light_season_of_hunt.txt
-Veritas1000/02_ignore_other_rolls.txt
-Veritas1000/01_trash.txt
-Veritas1000/00_original.txt
 title: God Rolls
 
 
@@ -198,6 +191,8 @@ dimwishlist:item=2050789284&perks=1840239774,106909392,1168162263,1683379515
 dimwishlist:item=2050789284&perks=1482024992,3230963543,1168162263,1683379515
 dimwishlist:item=2050789284&perks=1840239774,3230963543,1168162263,1683379515
 
+
+// source file: Veritas1000/2021_02_season_of_chosen.txt
 title: Season of the Chosen rolls
 
 
@@ -757,6 +752,8 @@ dimwishlist:item=432476743&perks=1840239774,679225683,1168162263,2846385770
 
 
 
+
+// source file: Veritas1000/2020_iron_banner.txt
 title: Iron Banner 2020 rolls
 
 
@@ -1358,7 +1355,9 @@ dimwishlist:item=2220884262&perks=1926090095,1561002382,588594999,957782887
 dimwishlist:item=2220884262&perks=1926090093,1561002382,588594999,957782887
 dimwishlist:item=2220884262&perks=1926090092,1885400500,588594999,957782887
 dimwishlist:item=2220884262&perks=1926090095,1885400500,588594999,957782887
-dimwishlist:item=2220884262&perks=1926090093,1885400500,588594999,957782887// Re-issued Dreaming City Weapons
+dimwishlist:item=2220884262&perks=1926090093,1885400500,588594999,957782887
+// source file: Veritas1000/2020_dreaming_city.txt
+// Re-issued Dreaming City Weapons
 
 
 // Vouchsafe
@@ -1425,6 +1424,8 @@ dimwishlist:item=3242168339&perks=2420895100,106909392,1354429876,2458213969
 dimwishlist:item=3242168339&perks=2420895100,1087426260,1354429876,2458213969
 
 
+
+// source file: Veritas1000/2020_11_beyond_light_season_of_hunt.txt
 title: Beyond Light / Season of the Hunt rolls
 
 // Royal Chase
@@ -1644,6 +1645,8 @@ dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868
 dimwishlist:item=1621657423&perks=2801223209,2154191829,588594999,4082225868
 dimwishlist:item=1621657423&perks=2801223209,3429800428,2450788523,4082225868
 dimwishlist:item=1621657423&perks=2801223209,2154191829,2450788523,4082225868
+
+// source file: Veritas1000/02_ignore_other_rolls.txt
 // Don't need any more 'good' rolls, I only care about god rolls of these anymore
 
 
@@ -1666,6 +1669,8 @@ dimwishlist:item=-1162247618#notes:Don't need any more
 // Last Perdition
 dimwishlist:item=188882152&perks=3151536500,106909392,2846385770,4267945040#notes: PvE
 dimwishlist:item=-188882152#notes:Don't need any more
+
+// source file: Veritas1000/01_trash.txt
 // My Trash rolls
 
 
@@ -1676,7 +1681,9 @@ dimwishlist:item=-1097616550&perks=3661387068,3177308360
 dimwishlist:item=-1097616550&perks=1467527085,2420895100
 dimwishlist:item=-1097616550&perks=202670084,2420895100
 dimwishlist:item=-1097616550&perks=3661387068,2420895100
-dimwishlist:item=-1097616550&perks=1820235745title: Veritas1000's customizations of DIM wishlist
+dimwishlist:item=-1097616550&perks=1820235745
+// source file: Veritas1000/00_original.txt
+title: Veritas1000's customizations of DIM wishlist
 
 // IKELOS_SR_v1.0.2
 dimwishlist:item=1253087083&perks=106909392,3400784728,2551157718
