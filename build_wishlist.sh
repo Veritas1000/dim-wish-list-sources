@@ -10,6 +10,7 @@ INCLUDE_TRASH=true
 add_sublist() {
     echo "Adding $1"
 
+    echo "// source file: $1" >> $BUILT_WISHLIST_FILE
     cat $1 >> $BUILT_WISHLIST_FILE
     echo "" >> $BUILT_WISHLIST_FILE
 }
